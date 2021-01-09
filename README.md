@@ -67,19 +67,5 @@ If you'd like to contribute, please fork the repository and make changes as
 you'd like. Pull requests are warmly welcome. Thanks alot
 
 ### Demo
-<div style="display: flex; flex-wrap: wrap">
- <img src="https://i.imgur.com/oJqL4FG.png"  width="250">
- <img src="https://i.imgur.com/p3EwDuz.png"  width="250">
-</div>
-<div style="display: flex; flex-wrap: wrap">
-  <img src="https://i.imgur.com/2V2bjJz.png" width="250">
- <img src="https://i.imgur.com/Sj49rlK.png" width="250">
-</div>
-<div style="display: flex">
- <img src="https://i.imgur.com/vnbPrl4.png" width="250">
- <img src="https://i.imgur.com/mT5Vjmj.png" width="250">
-</div>
-
-
 
 
